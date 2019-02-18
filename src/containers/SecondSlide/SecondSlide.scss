@@ -1,0 +1,19 @@
+
+.second-slide-wrapper {
+  ul {
+    list-style: decimal;
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    li {
+      margin-bottom: 20px;
+    }
+  }
+  .steps {
+    height: 30px;
+    line-height: 30px;
+    padding-bottom: 10px;
+    color: #333333;
+    text-decoration: none;
+  }
+}
